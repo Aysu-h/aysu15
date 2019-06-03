@@ -1,0 +1,37 @@
+.menu li{
+    display:inline-block;
+    padding:15px;
+}
+.menu{
+  
+    text-align: right;
+    color:#fff
+
+}
+.menu li:last-child{
+    background: red;
+    border-radius: 10px;
+    padding:12px 35px;
+
+}
+#header{
+    height: 50px;
+    padding: 30px 0;
+  
+    
+    width: 100%;
+    position: fixed;
+}
+#shape{
+    padding: 18rem 0;
+    background:url(https://themes.muffingroup.com/be/gym3/wp-content/uploads/2019/04/gym3_pic40.jpg);
+ background-position: center;
+ background-size: 100%;
+}
+
+.menu a{
+    color:#fff
+}
+.logo{
+padding-top:20px;
+}
